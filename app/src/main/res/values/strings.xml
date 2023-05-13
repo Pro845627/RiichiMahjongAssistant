@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">立直麻将助手</string>
+    <string name="menu_caculator">点数计算器</string>
+    <string name="menu_recorder">记录器</string>
+    <string name="menu_preferences">规则偏好设定</string>
+    <string name="menu_about">关于</string>
+    <string name="player1">玩家 1</string>
+    <string name="player2">玩家 2</string>
+    <string name="player3">玩家 3</string>
+    <string name="player4">玩家 4</string>
+    <string name="player1_points_key">Player1_Points</string>
+    <string name="player2_points_key">Player2_Points</string>
+    <string name="player3_points_key">Player3_Points</string>
+    <string name="player4_points_key">Player4_Points</string>
+    <string name="player1_reached_key">Player1_Reached</string>
+    <string name="player2_reached_key">Player2_Reached</string>
+    <string name="player3_reached_key">Player3_Reached</string>
+    <string name="player4_reached_key">Player4_Reached</string>
+    <string name="three_player_mode_key">Is_Three</string>
+    <string name="honsha_key">Honsha</string>
+    <string name="round_key">Round</string>
+    <string name="field_key">Field</string>
+    <string name="supply_key">Supply</string>
+    <string name="default_points_four_key">Default_Points_Four</string>
+    <string name="default_points_three_key">Default_Points_Three</string>
+    <string name="east">東</string>
+    <string name="south">南</string>
+    <string name="west">西</string>
+    <string name="north">北</string>
+</resources>

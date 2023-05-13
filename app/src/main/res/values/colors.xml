@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Bisque">#0000CD</color>
+    <color name="Papaya">#00008B</color>
+    <color name="colorKo">#212121</color>
+    <color name="colorOya">#8B1A1A</color>
+    <color name="colorOyaReach">#83310D</color>
+    <color name="colorReach">#7B4900</color>
+    <color name="colorEast">#FF8B0000</color>
+    <color name="colorSouth">#FF00008B</color>
+    <color name="colorWest">#FF008B8B</color>
+    <color name="colorNorth">#FFB8860B</color>
+    <color name="colorGain">#32CD32</color>
+    <color name="colorLose">#FF0000</color>
+</resources>

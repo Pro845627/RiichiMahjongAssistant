@@ -1,0 +1,48 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="reply_entries">
+        <item>Reply</item>
+        <item>Reply to all</item>
+    </string-array>
+
+    <string-array name="reply_values">
+        <item>reply</item>
+        <item>reply_all</item>
+    </string-array>
+    <string-array name="Fu">
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+        <item>40</item>
+        <item>50</item>
+        <item>60</item>
+        <item>70</item>
+        <item>80</item>
+        <item>90</item>
+        <item>100</item>
+        <item>110</item>
+    </string-array>
+    <string-array name="Fan">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5 (满贯)</item>
+        <item>6/7 (跳满)</item>
+        <item>8/9/10 (倍满)</item>
+        <item>11/12 (三倍满)</item>
+        <item>13+ (累计役满)</item>
+    </string-array>
+    <string-array name="Type">
+        <item>荣和</item>
+        <item>自摸</item>
+        <item>犯规罚符</item>
+    </string-array>
+    <string-array name="Player">
+        <item>玩家 1</item>
+        <item>玩家 2</item>
+        <item>玩家 3</item>
+        <item>玩家 4</item>
+    </string-array>
+
+</resources>
